@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/unicet_color.png" alt="Logo UNI-CET" width="350"/>
+  <img src="assets/unicet_white.png" alt="Logo UNI-CET" width="350"/>
 </div>
 
 <br/>
