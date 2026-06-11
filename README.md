@@ -4,6 +4,7 @@
 
 <br/>
 
+<div align="center">
 <table>
   <tr><td><strong>Instituição</strong></td><td>Centro Universitário Tecnológico de Teresina — UNI-CET</td></tr>
   <tr><td><strong>Curso</strong></td><td>Bacharelado em Engenharia de Computação com IA</td></tr>
@@ -12,6 +13,7 @@
   <tr><td><strong>Aluno</strong></td><td>Acad. Eng. Rafael Sampaio Oliveira</td></tr>
   <tr><td><strong>Matrícula</strong></td><td>241560003</td></tr>
 </table>
+</div>
 
 ---
 
