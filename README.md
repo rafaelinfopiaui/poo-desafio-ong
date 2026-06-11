@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/Social Preview.png" alt="Capa do Projeto" width="100%"/>
+</div>
+
+<div align="center">
   <img src="assets/unicet_white.png" alt="Logo UNI-CET" width="260"/>
 </div>
 
