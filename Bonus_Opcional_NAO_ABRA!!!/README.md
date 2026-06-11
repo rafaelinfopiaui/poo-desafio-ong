@@ -1,6 +1,9 @@
 # Bônus: Ampliação do Desafio POO
 
-Esta pasta é uma extensão voluntária da entrega principal.
+> ⚠️ **Eu avisei que não era pra abrir.**
+> Mas já que a curiosidade falou mais alto — bem-vindo ao bônus.
+
+Esta pasta é uma extensão **voluntária e não solicitada** da entrega principal.
 Após cumprir todos os requisitos obrigatórios, explorei dois conceitos
 adicionais que aprofundam a aplicação dos pilares da POO.
 
