@@ -4,6 +4,8 @@ Projeto desenvolvido como atividade prática da disciplina de **Programação Or
 
 O projeto demonstra os conceitos de **Herança**, **Polimorfismo** (sobrescrita de método), **Encapsulamento** (com regra de negócio no setter) e **Composição** (relação TEM-UM).
 
+![versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue) ![status](https://img.shields.io/badge/status-Conclu%C3%ADdo-brightgreen) ![linguagem](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white) ![disciplina](https://img.shields.io/badge/disciplina-POO-9b59b6) ![tipo](https://img.shields.io/badge/tipo-Atividade%20Acad%C3%AAmica-lightgrey)
+
 ## 📂 Estrutura do Projeto
 
 ```

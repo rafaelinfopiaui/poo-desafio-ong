@@ -7,6 +7,8 @@ Esta pasta é uma extensão **voluntária e não solicitada** da entrega princip
 Após cumprir todos os requisitos obrigatórios, explorei dois conceitos
 adicionais que aprofundam a aplicação dos pilares da POO.
 
+![conteúdo](https://img.shields.io/badge/conte%C3%BAdo-B%C3%B4nus-FFD700?labelColor=555555) ![Java](https://img.shields.io/badge/Java-abstract%20%2B%20ArrayList-orange?logo=openjdk&logoColor=white) ![nível](https://img.shields.io/badge/n%C3%ADvel-Avan%C3%A7ado-red)
+
 ---
 
 ## O que foi adicionado
