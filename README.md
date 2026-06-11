@@ -2,29 +2,15 @@
   <img src="assets/Social Preview.png" alt="Capa do Projeto" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="assets/unicet_white.png" alt="Logo UNI-CET" width="260"/>
-</div>
-
 <br/>
 
-<table width="100%">
-  <tr>
-    <td valign="middle">
-      <strong>CENTRO UNIVERSITÁRIO TECNOLÓGICO DE TERESINA — UNI-CET</strong><br/>
-      <em>Curso de Bacharelado em Engenharia de Computação com IA</em>
-      <br/><br/>
-      <table>
-        <tr><td><strong>Disciplina</strong></td><td>Programação Orientada a Objetos — POO</td></tr>
-        <tr><td><strong>Ministrante</strong></td><td>Prof. Eng. Esp. Lucas Mateus de Lima Neris</td></tr>
-        <tr><td><strong>Aluno</strong></td><td>Rafael Sampaio Oliveira</td></tr>
-        <tr><td><strong>Matrícula</strong></td><td>241560003</td></tr>
-      </table>
-    </td>
-    <td align="center" valign="middle" width="200">
-      <img src="assets/eng-cia-logo.png" alt="Brasão Engenharia da Computação com IA — UNI-CET" width="180"/>
-    </td>
-  </tr>
+<table>
+  <tr><td><strong>Instituição</strong></td><td>Centro Universitário Tecnológico de Teresina — UNI-CET</td></tr>
+  <tr><td><strong>Curso</strong></td><td>Bacharelado em Engenharia de Computação com IA</td></tr>
+  <tr><td><strong>Disciplina</strong></td><td>Programação Orientada a Objetos — POO</td></tr>
+  <tr><td><strong>Ministrante</strong></td><td>Prof. Eng. Esp. Lucas Mateus de Lima Neris</td></tr>
+  <tr><td><strong>Aluno</strong></td><td>Rafael Sampaio Oliveira</td></tr>
+  <tr><td><strong>Matrícula</strong></td><td>241560003</td></tr>
 </table>
 
 ---
