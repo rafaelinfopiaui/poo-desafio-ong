@@ -1,3 +1,19 @@
+<div align="center">
+
+**CENTRO UNIVERSITÁRIO TECNOLÓGICO DE TERESINA — UNI-CET**
+Curso de Bacharelado em Engenharia de Computação com IA
+
+| | |
+|---|---|
+| **Disciplina** | Programação Orientada a Objetos — POO |
+| **Ministrante** | Prof. Eng. Esp. Lucas Mateus de Lima Neris |
+| **Aluno** | Rafael Sampaio Oliveira |
+| **Matrícula** | 241560003 |
+
+</div>
+
+---
+
 # Sistema de Gestão de ONG — Desafio POO Java
 
 Projeto desenvolvido como atividade prática da disciplina de **Programação Orientada a Objetos** em Java, simulando o sistema de gestão de membros de uma ONG.
