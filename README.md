@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Social Preview.png" alt="Capa do Projeto" width="100%"/>
+  <img src="assets/Social_Preview.png" alt="Capa do Projeto" width="100%"/>
 </div>
 
 <br/>
