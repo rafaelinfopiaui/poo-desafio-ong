@@ -1,7 +1,12 @@
 <div align="center">
 
+<img src="assets/eng-cia-logo.png" alt="Brasão Engenharia da Computação com IA — UNI-CET" width="180"/>
+
+<img src="assets/unicet_color.png" alt="Logo UNI-CET" width="120"/>
+
 **CENTRO UNIVERSITÁRIO TECNOLÓGICO DE TERESINA — UNI-CET**
-Curso de Bacharelado em Engenharia de Computação com IA
+
+**Curso de Bacharelado em Engenharia de Computação com IA**
 
 | | |
 |---|---|
